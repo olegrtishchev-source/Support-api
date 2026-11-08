@@ -6,4 +6,3 @@ __pycache__/
 .gigaide/
 *.iml
 .pytest_cache/
-
