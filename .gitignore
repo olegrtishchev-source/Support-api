@@ -3,4 +3,7 @@ __pycache__/
 *.pyc
 .env
 .idea/
+.gigaide/
+*.iml
 .pytest_cache/
+
